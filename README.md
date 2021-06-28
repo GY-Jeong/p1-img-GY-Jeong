@@ -43,7 +43,7 @@
 
   ### Tensorboard log
   
-  </center><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c08f6b4d-9d8d-4acf-9cfe-38d5fd6151da/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210522%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210522T172517Z&X-Amz-Expires=86400&X-Amz-Signature=80a01f71444bba4e2750c1b970ea3ce1e8551ab0d9843c9eb3eac45eb088dda0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="450" height="450"></center>
+  </center><img src="![image](https://user-images.githubusercontent.com/28976984/123673316-49765180-d87b-11eb-84a0-9dee87812cae.png)" width="450" height="450"></center>
 
   ## 모델 성능
   
