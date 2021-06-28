@@ -42,8 +42,7 @@
   - `AdamP`
 
   ### Tensorboard log
-  
-  </center><img src="![image](https://user-images.githubusercontent.com/28976984/123673316-49765180-d87b-11eb-84a0-9dee87812cae.png)" width="450" height="450"></center>
+  <p align="center"><img src="https://user-images.githubusercontent.com/28976984/123673316-49765180-d87b-11eb-84a0-9dee87812cae.png" width="450" height="450"></p>
 
   ## 모델 성능
   
